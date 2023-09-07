@@ -1,0 +1,8 @@
+D:\desktop\Set A NCC\inheritance\bin\Debug\inheritance.exe.config
+D:\desktop\Set A NCC\inheritance\bin\Debug\inheritance.exe
+D:\desktop\Set A NCC\inheritance\bin\Debug\inheritance.pdb
+D:\desktop\Set A NCC\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+D:\desktop\Set A NCC\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+D:\desktop\Set A NCC\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\desktop\Set A NCC\inheritance\obj\Debug\inheritance.exe
+D:\desktop\Set A NCC\inheritance\obj\Debug\inheritance.pdb
