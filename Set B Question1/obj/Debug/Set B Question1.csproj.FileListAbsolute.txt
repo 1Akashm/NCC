@@ -1,0 +1,8 @@
+D:\desktop\Set A NCC\Set B Question1\bin\Debug\Set B Question1.exe.config
+D:\desktop\Set A NCC\Set B Question1\bin\Debug\Set B Question1.exe
+D:\desktop\Set A NCC\Set B Question1\bin\Debug\Set B Question1.pdb
+D:\desktop\Set A NCC\Set B Question1\obj\Debug\Set B Question1.csproj.AssemblyReference.cache
+D:\desktop\Set A NCC\Set B Question1\obj\Debug\Set B Question1.csproj.SuggestedBindingRedirects.cache
+D:\desktop\Set A NCC\Set B Question1\obj\Debug\Set B Question1.csproj.CoreCompileInputs.cache
+D:\desktop\Set A NCC\Set B Question1\obj\Debug\Set B Question1.exe
+D:\desktop\Set A NCC\Set B Question1\obj\Debug\Set B Question1.pdb
